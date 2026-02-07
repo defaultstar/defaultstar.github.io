@@ -1,0 +1,23 @@
+<package>
+	<id>com.rpetrich.retinapad</id>
+	<name>RetinaPad</name>
+	<version>1.3.7</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>8.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>this is a test.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
